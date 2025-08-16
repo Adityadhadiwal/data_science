@@ -1,0 +1,10 @@
+[ 2025-08-13 06:32:11,822 ] 22 root - INFO - Entered the data ingestion method.
+[ 2025-08-13 06:32:11,822 ] 30 root - INFO - Looking for dataset at: E:\ML_project\data\stud.csv
+[ 2025-08-13 06:32:11,849 ] 37 root - INFO - Dataset loaded successfully with shape: (1000, 8)
+[ 2025-08-13 06:32:11,849 ] 38 root - INFO - Dataset loaded successfully with shape: (1000, 8)
+[ 2025-08-13 06:32:11,854 ] 45 root - INFO - Raw data saved to: artifacts\data.csv
+[ 2025-08-13 06:32:11,855 ] 48 root - INFO - Splitting dataset into train and test sets...
+[ 2025-08-13 06:32:11,866 ] 55 root - INFO - Train data saved to: artifacts\train.csv
+[ 2025-08-13 06:32:11,866 ] 56 root - INFO - Test data saved to: artifacts\test.csv
+[ 2025-08-13 06:32:11,867 ] 57 root - INFO - Data ingestion completed successfully.
+[ 2025-08-13 06:32:11,867 ] 72 root - INFO - Data ingestion pipeline finished successfully.
